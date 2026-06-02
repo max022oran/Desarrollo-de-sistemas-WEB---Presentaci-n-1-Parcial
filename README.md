@@ -5,7 +5,7 @@ Terciario Urquiza
 Equipo
 Grupo Análisis
 Integrantes
-Algañaras, Nahir | Bottiroli, Ariadna | Oranges, Máximo |  Sánchez, Karen
+Algañaras, Nahir | Bottiroli, Ariadna | Oranges, Máximo |  Sánchez, Karen | Palma, Diego
 Versión
 1.0 — Presentación Preliminar (1.er Parcial)
 Fecha
