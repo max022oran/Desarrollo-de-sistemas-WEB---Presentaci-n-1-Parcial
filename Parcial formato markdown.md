@@ -3,23 +3,21 @@
 ### Terciario Urquiza
 
 #### Equipo
-Grupo Análisis
-Integrantes
-Algañaras, Nahir | Bottiroli, Ariadna | Oranges, Máximo |  Sánchez, Karen | Palma, Diego
-Versión
-1.0 — Presentación Preliminar (1.er Parcial)
-Fecha
-10 / junio / 2026
-Docente
-Pedernera, Pablo
+Grupo Análisis  
+Integrantes: Algañaras, Nahir | Bottiroli, Ariadna | Oranges, Máximo |  Sánchez, Karen | Palma, Diego  
+Versión: 1.0 — Presentación Preliminar (1.er Parcial)  
+Fecha: 10 / junio / 2026  
+Docente: Pedernera, Pablo  
 
 
 1. Descripción del sistema y contexto real
+
 En muchas instituciones / organizaciones donde se realizan convocatorias (ya sea laborales, educativas o de prácticas), el proceso de selección suele ser desordenado y poco eficiente.
 Generalmente, los postulantes cargan sus datos, pero luego no existe un seguimiento claro del estado de su postulación, entrevistas o resultados finales. Esto genera confusión tanto para los administradores como para los usuarios.
 A partir de esta problemática, se propone el desarrollo de un sistema web que permita gestionar convocatorias, postulaciones y entrevistas, centralizando toda la información en una única plataforma.
 
 2. Identificación de stakeholders
+
 Stakeholders internos: el administrador y la empresa
 Administrador:
 Gestiona el sistema completo.
