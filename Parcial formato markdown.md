@@ -44,49 +44,22 @@ El sistema utiliza automáticamente el CV cargado por el usuario en cada postula
 El sistema valida que no se postule dos veces.  
 El sistema valida que el usuario tenga cargado antes un CV para postularse.  
 El sistema permite redirigir a un sitio externo.  
-El administrador puede:  
-Crear convocatorias  
-Evaluar postulantes  
-Registrar entrevistas  
+El administrador puede: crear convocatorias, evaluar postulantes y registrar entrevistas.  
 El sistema muestra resultados al usuario.  
 El sistema oculta convocatorias vencidas.  
 El sistema muestra estadísticas generales.  
 
  No Funcionales
-El sistema debe ser fácil de usar. (por ejemplo: el proceso de postulación no debe requerir más de 4 pasos una vez que el usuario ha iniciado sesión).
-El sistema deberá restringir el acceso únicamente a usuarios con correos institucionales válidos.
-Debe garantizar seguridad en los datos.
-Debe validar los formularios correctamente.
-Debe ser accesible desde el navegador web.
-Debe actualizar la información en tiempo real.
+El sistema debe ser fácil de usar. (por ejemplo: el proceso de postulación no debe requerir más de 4 pasos una vez que el usuario ha iniciado sesión).  
+El sistema deberá restringir el acceso únicamente a usuarios con correos institucionales válidos.  
+Debe garantizar seguridad en los datos.  
+Debe validar los formularios correctamente.  
+Debe ser accesible desde el navegador web.  
+Debe actualizar la información en tiempo real.  
 
 4. Historias de usuario
-ID
-Historia de usuario
-HU 1
-Como empresa, quiero crear una convocatoria laboral para publicar nuevas búsquedas del personal.
-HU 2
-Como empresa, quiero editar o cerrar convocatorias para mantener actualizada la información disponible.
-HU 3
-Como usuario: alumno/docente, quiero registrarme en el sistema para poder postularme a diferentes convocatorias.
-HU 4
-Como usuario: alumno/docente, quiero cargar mi currículum y datos personales para facilitar el proceso de selección.
-HU 5
-Como usuario: alumno/docente, quiero postularme a una convocatoria para participar en el proceso de selección.
-HU 6
-Como empresa, quiero visualizar la lista de postulantes para evaluar los perfiles recibidos.
-HU 7
-Como empresa, quiero programar entrevistas para organizar las reuniones con los candidatos.
-HU 8
-Como usuario: alumno/docente, quiero recibir notificaciones de entrevistas para conocer fecha y horario asignados.
-HU 9
-Como empresa, quiero registrar el resultado de cada entrevista para realizar el seguimiento del proceso.
-HU 10
-Como administrador, quiero gestionar usuarios y permisos para garantizar la seguridad del sistema.
-HU 11
-Como administrador, quiero generar reportes de convocatorias y entrevistas para analizar resultados del proceso de selección.
-HU 12
-Como usuario: alumno/docente, quiero consultar el estado de mi postulación para conocer el avance de mi proceso.
+
+<img width="501" height="701" alt="image" src="https://github.com/user-attachments/assets/41d89b7d-95a2-4d79-a56f-7151f36e83cc" />
 
 5. Casos de uso
 
