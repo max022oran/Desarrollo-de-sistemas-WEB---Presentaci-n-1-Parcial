@@ -37,7 +37,8 @@ Consulta sus postulaciones.
 Visualiza resultados.
 
 3. Requisitos funcionales y no funcionales
- Funcionales
+
+ Funcionales:
 El usuario puede registrarse con el mail institucional y acceder al sistema.
 El usuario puede cargar un CV en formato PDF desde su perfil. 
 El usuario puede postularse a convocatorias. 
