@@ -1,8 +1,8 @@
-PRESENTACIÓN PRELIMINAR
-Sistema de Gestión de Convocatorias y Entrevistas
-Terciario Urquiza
+# PRESENTACIÓN PRELIMINAR
+## Sistema de Gestión de Convocatorias y Entrevistas
+### Terciario Urquiza
 
-Equipo
+#### Equipo
 Grupo Análisis
 Integrantes
 Algañaras, Nahir | Bottiroli, Ariadna | Oranges, Máximo |  Sánchez, Karen | Palma, Diego
