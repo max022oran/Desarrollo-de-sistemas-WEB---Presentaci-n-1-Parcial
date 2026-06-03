@@ -36,21 +36,21 @@ Visualiza resultados.
 
 3. Requisitos funcionales y no funcionales
 
- Funcionales:
-El usuario puede registrarse con el mail institucional y acceder al sistema.
-El usuario puede cargar un CV en formato PDF desde su perfil. 
-El usuario puede postularse a convocatorias. 
-El sistema utiliza automáticamente el CV cargado por el usuario en cada postulación.
-El sistema valida que no se postule dos veces.
-El sistema valida que el usuario tenga cargado antes un CV para postularse. 
-El sistema permite redirigir a un sitio externo.
-El administrador puede:
-Crear convocatorias
-Evaluar postulantes
-Registrar entrevistas
-El sistema muestra resultados al usuario.
-El sistema oculta convocatorias vencidas.
-El sistema muestra estadísticas generales.
+ Funcionales:  
+El usuario puede registrarse con el mail institucional y acceder al sistema.  
+El usuario puede cargar un CV en formato PDF desde su perfil.  
+El usuario puede postularse a convocatorias.  
+El sistema utiliza automáticamente el CV cargado por el usuario en cada postulación.  
+El sistema valida que no se postule dos veces.  
+El sistema valida que el usuario tenga cargado antes un CV para postularse.  
+El sistema permite redirigir a un sitio externo.  
+El administrador puede:  
+Crear convocatorias  
+Evaluar postulantes  
+Registrar entrevistas  
+El sistema muestra resultados al usuario.  
+El sistema oculta convocatorias vencidas.  
+El sistema muestra estadísticas generales.  
 
  No Funcionales
 El sistema debe ser fácil de usar. (por ejemplo: el proceso de postulación no debe requerir más de 4 pasos una vez que el usuario ha iniciado sesión).
