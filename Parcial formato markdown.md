@@ -69,8 +69,6 @@ Debe actualizar la información en tiempo real.
 
 <img width="759" height="380" alt="image" src="https://github.com/user-attachments/assets/e0e674ee-1e5f-4829-a738-41f513da0751" />
 
-<img width="381" height="898" alt="image" src="https://github.com/user-attachments/assets/a4df44c9-4c10-49df-96ec-3f0fa2ff9aac" />
-
 Relaciones:  
 Un usuario puede realizar muchas postulaciones.  
 Una convocatoria puede tener muchas postulaciones.  
@@ -80,10 +78,11 @@ Un administrador puede gestionar múltiples convocatorias y entrevistas.
 
 Ejemplo de atributos:
 
-
+<img width="381" height="898" alt="image" src="https://github.com/user-attachments/assets/a4df44c9-4c10-49df-96ec-3f0fa2ff9aac" />
 
 7. Referencias y fuentes
-Apuntes de clase: 
-Stakeholders, Requisitos, Técnicas y Métodos: https://docs.google.com/document/d/10MtzGAmCBbhG0Bpe5i3tOR6pRDejYS_kWcTarNB7gkc/edit?tab=t.0
-Identificación de Stakeholders y Necesidades en Proyectos Web: https://docs.google.com/document/d/1aRW976EYNBaPYjgdMSkektNe4da0BUBKxSTpEmjaKNk/edit?tab=t.0#heading=h.ef7qf762a8wz
+
+Apuntes de clase:  
+Stakeholders, Requisitos, Técnicas y Métodos: https://docs.google.com/document/d/10MtzGAmCBbhG0Bpe5i3tOR6pRDejYS_kWcTarNB7gkc/edit?tab=t.0  
+Identificación de Stakeholders y Necesidades en Proyectos Web: https://docs.google.com/document/d/1aRW976EYNBaPYjgdMSkektNe4da0BUBKxSTpEmjaKNk/edit?tab=t.0#heading=h.ef7qf762a8wz  
 Diagrama Entidad Relación: https://docs.google.com/presentation/d/1r__6Iljgi8iTWQHCk2yEV27reVdGizABsesVVfwjiSw/edit?slide=id.p#slide=id.p
