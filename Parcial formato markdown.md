@@ -18,21 +18,21 @@ A partir de esta problemática, se propone el desarrollo de un sistema web que p
 
 2. Identificación de stakeholders
 
-Stakeholders internos: el administrador y la empresa
-Administrador:
-Gestiona el sistema completo.
-Crea convocatorias.
-Registra entrevistas.
-Visualiza estadísticas.
-Empresa:
-Publica convocatorias.
-Puede decidir si la postulación es interna o externa.
+Stakeholders internos: el administrador y la empresa  
+Administrador:  
+Gestiona el sistema completo.  
+Crea convocatorias.  
+Registra entrevistas.  
+Visualiza estadísticas.  
+Empresa:  
+Publica convocatorias.  
+Puede decidir si la postulación es interna o externa.  
 
-Stakeholder externo: el usuario/postulante:
-Usuario/Postulante
-Se postula a convocatorias.
-Consulta sus postulaciones.
-Visualiza resultados.
+Stakeholder externo: el usuario/postulante:  
+Usuario/Postulante:  
+Se postula a convocatorias.  
+Consulta sus postulaciones.  
+Visualiza resultados.  
 
 3. Requisitos funcionales y no funcionales
 
