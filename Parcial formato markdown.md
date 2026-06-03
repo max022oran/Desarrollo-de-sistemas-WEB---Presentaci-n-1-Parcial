@@ -77,7 +77,7 @@ Un administrador puede gestionar múltiples convocatorias y entrevistas.
 
 Ejemplo de atributos:  
 
-<img width="381" height="949" alt="image" src="https://github.com/user-attachments/assets/070d34ff-300c-4e39-b868-7c6e9d664bb5" />
+<img width="381" height="949" alt="image" src="https://github.com/user-attachments/assets/c17240f2-c090-4a31-a665-a93bb3cfd47c" />
 
 7. Referencias y fuentes  
 
