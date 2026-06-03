@@ -113,7 +113,7 @@ Administrador
 Gestiona el sistema
 --------------------------------------------------
 
-<img width="971" height="686" alt="image" src="https://github.com/user-attachments/assets/fd4753b7-8b77-4771-8e0a-2171b896cb8c" />
+<img width="381" height="898" alt="image" src="https://github.com/user-attachments/assets/a4df44c9-4c10-49df-96ec-3f0fa2ff9aac" />
 
 Relaciones:
 Un usuario puede realizar muchas postulaciones.
