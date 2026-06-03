@@ -49,7 +49,7 @@ El sistema muestra resultados al usuario.
 El sistema oculta convocatorias vencidas.  
 El sistema muestra estadísticas generales.  
 
- No Funcionales
+ No Funcionales:  
 El sistema debe ser fácil de usar. (por ejemplo: el proceso de postulación no debe requerir más de 4 pasos una vez que el usuario ha iniciado sesión).  
 El sistema deberá restringir el acceso únicamente a usuarios con correos institucionales válidos.  
 Debe garantizar seguridad en los datos.  
@@ -67,34 +67,20 @@ Debe actualizar la información en tiempo real.
 
 6. Modelo Entidad-Relación
 
---------------------------------------------------
-Entidad
-Descripción
-Usuario
-Almacena datos de los postulantes
-Empresa
-Registra empresas que publican convocatorias
-Convocatoria
-Contiene información de convocatorias publicadas
-
-Postulación
-Registra postulaciones realizadas
-Entrevista
-Guarda entrevistas y resultados
-Administrador
-Gestiona el sistema
---------------------------------------------------
+<img width="759" height="380" alt="image" src="https://github.com/user-attachments/assets/e0e674ee-1e5f-4829-a738-41f513da0751" />
 
 <img width="381" height="898" alt="image" src="https://github.com/user-attachments/assets/a4df44c9-4c10-49df-96ec-3f0fa2ff9aac" />
 
-Relaciones:
-Un usuario puede realizar muchas postulaciones.
-Una convocatoria puede tener muchas postulaciones.
-Una empresa puede publicar muchas convocatorias.
-Una postulación puede tener una entrevista.
-Un administrador puede gestionar múltiples convocatorias y entrevistas.
+Relaciones:  
+Un usuario puede realizar muchas postulaciones.  
+Una convocatoria puede tener muchas postulaciones.  
+Una empresa puede publicar muchas convocatorias.  
+Una postulación puede tener una entrevista.  
+Un administrador puede gestionar múltiples convocatorias y entrevistas.  
 
 Ejemplo de atributos:
+
+
 
 7. Referencias y fuentes
 Apuntes de clase: 
