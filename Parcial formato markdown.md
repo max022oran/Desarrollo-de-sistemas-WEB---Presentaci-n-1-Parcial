@@ -10,13 +10,13 @@ Fecha: 10 / junio / 2026
 Docente: Pedernera, Pablo  
 
 
-1. Descripción del sistema y contexto real
+1. Descripción del sistema y contexto real  
 
 En muchas instituciones / organizaciones donde se realizan convocatorias (ya sea laborales, educativas o de prácticas), el proceso de selección suele ser desordenado y poco eficiente.  
 Generalmente, los postulantes cargan sus datos, pero luego no existe un seguimiento claro del estado de su postulación, entrevistas o resultados finales. Esto genera confusión tanto para los administradores como para los usuarios.  
 A partir de esta problemática, se propone el desarrollo de un sistema web que permita gestionar convocatorias, postulaciones y entrevistas, centralizando toda la información en una única plataforma.  
 
-2. Identificación de stakeholders
+2. Identificación de stakeholders  
 
 Stakeholders internos: el administrador y la empresa  
 Administrador:  
@@ -29,12 +29,11 @@ Publica convocatorias.
 Puede decidir si la postulación es interna o externa.  
 
 Stakeholder externo: el usuario/postulante:  
-Usuario/Postulante:  
 Se postula a convocatorias.  
 Consulta sus postulaciones.  
 Visualiza resultados.  
 
-3. Requisitos funcionales y no funcionales
+3. Requisitos funcionales y no funcionales  
 
  Funcionales:  
 El usuario puede registrarse con el mail institucional y acceder al sistema.  
@@ -57,15 +56,15 @@ Debe validar los formularios correctamente.
 Debe ser accesible desde el navegador web.  
 Debe actualizar la información en tiempo real.  
 
-4. Historias de usuario
+4. Historias de usuario  
 
 <img width="501" height="701" alt="image" src="https://github.com/user-attachments/assets/41d89b7d-95a2-4d79-a56f-7151f36e83cc" />
 
-5. Casos de uso
+5. Casos de uso  
 
 <img width="948" height="673" alt="image" src="https://github.com/user-attachments/assets/b18cf9b2-9031-4033-b765-4392eceec0fc" />
 
-6. Modelo Entidad-Relación
+6. Modelo Entidad-Relación  
 
 <img width="759" height="380" alt="image" src="https://github.com/user-attachments/assets/e0e674ee-1e5f-4829-a738-41f513da0751" />
 
@@ -76,11 +75,11 @@ Una empresa puede publicar muchas convocatorias.
 Una postulación puede tener una entrevista.  
 Un administrador puede gestionar múltiples convocatorias y entrevistas.  
 
-Ejemplo de atributos:
+Ejemplo de atributos:  
 
 <img width="381" height="898" alt="image" src="https://github.com/user-attachments/assets/a4df44c9-4c10-49df-96ec-3f0fa2ff9aac" />
 
-7. Referencias y fuentes
+7. Referencias y fuentes  
 
 Apuntes de clase:  
 Stakeholders, Requisitos, Técnicas y Métodos: https://docs.google.com/document/d/10MtzGAmCBbhG0Bpe5i3tOR6pRDejYS_kWcTarNB7gkc/edit?tab=t.0  
