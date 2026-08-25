@@ -62,7 +62,7 @@ Debe actualizar la información en tiempo real.
 
 5. Casos de uso  
 
-<img width="948" height="673" alt="image" src="https://github.com/user-attachments/assets/b18cf9b2-9031-4033-b765-4392eceec0fc" />
+<img width="403" height="949" alt="image" src="https://github.com/user-attachments/assets/3bcf7d78-768a-4b84-bf1b-c6dd525be2c6" />
 
 6. Modelo Entidad-Relación  
 
